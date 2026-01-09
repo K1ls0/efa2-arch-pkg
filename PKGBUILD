@@ -22,7 +22,7 @@ source=(
     "$_url_base/download/$_src_name"
 )
 sha256sums=(
-    'd2fb2976d3891677dac21bd201a7cc3dccba0e63e269654f14ee9b0ebbc5bf5b'
+    '589afa0ec3c4bc0e9e15b82299b52b5a297539bfdfb8db3c62966683b86cca6c'
 )
 _install_dir="/usr/share/${_pkgname}"
 
